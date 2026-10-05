@@ -1,11 +1,11 @@
-1. RECUPERAR LA OPORTUNIDDA SELECCIONADA. 
+# 1. RECUPERAR LA OPORTUNIDAD SELECCIONADA. 
 
-nombre provisional del proyecto: Sistema de Riego por Goteo Automatizado para Cultivos a Pequeña Escala.
+**Nombre provisional del proyecto:** Sistema de Riego por Goteo Automatizado para Cultivos a Pequeña Escala.
 
-integrantes del equipo:
-Rodríguez Ramírez Daniel
-Luis Ramon Sanchez Perez
-Gael Juarez Molina
+**Integrantes del equipo:**  
+Rodríguez Ramírez Daniel  
+Luis Ramon Sanchez Perez  
+Gael Juarez Molina  
 
 oportunidad seleccionada: Implementación de un sistema eficiente de riego por goteo enfocado en la optimización del uso de agua y el cuidado de una población de 30 plantas.
 
