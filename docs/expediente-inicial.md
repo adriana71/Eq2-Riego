@@ -46,7 +46,7 @@ personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 
 
 
-
+**Tabla 2**
 
   <table>
 <thead>
