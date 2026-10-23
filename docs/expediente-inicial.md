@@ -46,3 +46,54 @@ personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 
 
 
+
+
+  <table>
+<thead>
+<tr>
+<th>Necesidad identificada</th>
+<th>¿Qué sabemos actualmente?</th>
+<th>¿Qué necesitamos hacer para atenderla?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conocer la cantidad de agua que necesitan las plántulas de tomate.</td>
+<td>Sabemos que el sistema debe suministrar entre 20 y 50 mL de agua por plántula cada 3 o 4 días.</td>
+<td>Investigar las necesidades de agua del tomate y realizar pruebas para determinar la cantidad adecuada.</td>
+</tr>
+<tr>
+<td>Seleccionar los componentes del sistema de riego.</td>
+<td>Sabemos que necesitamos una bomba o electroválvulas para distribuir el agua de manera controlada.</td>
+<td>Investigar las características de los componentes y elegir los más adecuados para el proyecto.</td>
+</tr>
+<tr>
+<td>Aprender a programar el control automático.</td>
+<td>Sabemos que el sistema debe controlar los tiempos y las cantidades de agua suministradas.</td>
+<td>Investigar cómo programar el microcontrolador para automatizar las secuencias de riego.</td>
+</tr>
+<tr>
+<td>Desarrollar una interfaz gráfica.</td>
+<td>Sabemos que necesitamos una interfaz para configurar el volumen, el tiempo y las plántulas que se van a regar.</td>
+<td>Aprender a crear una interfaz sencilla que permita seleccionar las plántulas y modificar los parámetros.</td>
+</tr>
+<tr>
+<td>Diseñar la distribución de las 30 plántulas.</td>
+<td>Sabemos que estarán organizadas en 6 filas y 5 columnas.</td>
+<td>Diseñar la estructura y las tuberías para distribuir correctamente el agua a cada plántula.</td>
+</tr>
+<tr>
+<td>Calibrar y comprobar el funcionamiento del sistema.</td>
+<td>Sabemos que el volumen suministrado debe corresponder con el valor programado.</td>
+<td>Realizar mediciones con recipientes graduados y pruebas para ajustar la dosificación y detectar posibles fallas.</td>
+</tr>
+<tr>
+<td>Identificar los materiales y el presupuesto necesario.</td>
+<td>Sabemos que necesitamos componentes electrónicos, materiales para la estructura y elementos para distribuir el agua.</td>
+<td>Elaborar una lista de materiales, revisar cuáles tenemos disponibles y comparar precios para calcular el presupuesto.</td>
+</tr>
+</tbody>
+</table>
+
+
+
