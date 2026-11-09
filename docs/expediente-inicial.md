@@ -95,5 +95,12 @@ personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 </tbody>
 </table>
 
+**Tabla punto 3**
+
+| Responsabilidad       | Integrante(s) | ¿Qué deberá cuidar o verificar? |
+|-----------------------|---------------|----------------------------------|
+| Coordinación          | Ramón              | La asginación correcta de actividades a cada integrante |
+| Documentación         | Daniel              | Revisar con cuidado la información con la que ya contamos |
+| Seguimiento en GitHub | Gael              | Estar pendiente del correo electrónico y los mensajes por la app de github |
 
 
