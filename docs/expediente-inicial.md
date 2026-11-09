@@ -109,4 +109,25 @@ personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 | Documentación         | Daniel              | Revisar con cuidado la información con la que ya contamos |
 | Seguimiento en GitHub | Gael              | Estar pendiente del correo electrónico y los mensajes por la app de github |
 
+**Preguntas punto 4**
 
+**¿Cómo se comunicarán?**  
+Mediante la plataforma de github y de manera presencial  
+
+**¿Cómo organizarán y distribuirán las actividades?**  
+Deacuerdo a la carga de trabajo que ya maneje cada integrante  
+
+**¿Cómo acordarán fechas y darán seguimiento a pendientes?**  
+Según lo que nos indique el maestro acesor y de acuerdo al tiempo estimado para cada actividad  
+
+**¿Qué harán cuando un integrante tenga dificultades para cumplir una actividad?**  
+Verificar cual es el problema con la actividad y buscar brindar apoyo al compañero, en caso de que la misma no sea completada dentro del tiempo, reasignarla y cambiar de actividad al compañero  
+
+**¿Cómo resolverán diferencias o desacuerdos?**  
+Mediante el dialogo, en caso de no llegar a un acuerdo de esta forma, buscar ayuda del asesor para mediar el problema  
+
+**¿Cómo revisarán un trabajo antes de considerarlo terminado?**  
+Pedir ayuda al asesor para verificar si el trabajo entegado coincide con lo esperado 
+
+**¿Cómo asegurarán que todos conozcan las decisiones tomadas?**  
+Informandolas presencialmente, de no ser posible, por via github o por correo electrónico  
