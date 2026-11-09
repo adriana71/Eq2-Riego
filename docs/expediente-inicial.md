@@ -44,7 +44,13 @@ personas, grupos, organizaciones, procesos o sectores que podrían beneficiarse:
 
 ¿Existen sistemas de riego de precisión para plántulas de tomate que podamos tomar como referencia?
 
+**Tabla punto 1**
 
+| Integrante | Me interesa participar en... | Inicialmente puedo colaborar en... | Me gustaría aprender o desarrollar... |
+|------------|--------------------------------|------------------------------------|----------------------------------------|
+|     Ramón      |  En la parte electrónica del proyecto   |    La documentación y administración de tareas  | Habilidades tecnicas con respecto al tipo de proyecto |
+|    Gael        |                                |                                    |                                        |
+|   Daniel       |                                |                                    |                                        |
 
 **Tabla 2**
 
